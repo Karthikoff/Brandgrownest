@@ -9,8 +9,10 @@ A complete pixel-perfect implementation of the provided Figma design using React
 This project recreates all UI screens exactly as per the assignment — including onboarding screen, features list, testimonials section, FAQs, and footer.
 
 # Library	  Purpose
--expo-image	  Better optimized image rendering
--expo-router  Navigation & folder-based routing
+=>expo-image	  Better optimized image rendering
+
+
+=>expo-router  Navigation & folder-based routing
 
 ## Get started
 
